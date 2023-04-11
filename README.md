@@ -1,7 +1,7 @@
 # Term-Project
 Detecting pneumonia using CNN
 # Table Of Contents
--  Introduction
+- Introduction
 - Problem Statement
 - Methodology
 - Results
@@ -9,3 +9,5 @@ Detecting pneumonia using CNN
 - Conclusion
 - References
 - Appendix
+
+##Introduction
